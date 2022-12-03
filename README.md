@@ -23,6 +23,8 @@
 
 ## Reference
 
+[LaTeX Workshop - VSCode Extension](https://github.com/James-Yu/LaTeX-Workshop/wiki)
+
 [LATEX 入門 - 明治大学](https://www.isc.meiji.ac.jp/~mizutani/tex/latex_manual/latex.pdf)
 
 [LaTeX入門 - 数式コマンドリファレンス](https://medemanabu.net/latex/)
